@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BinaryTreePiramid
+namespace BinaryTreePyramid
 {
     class Node
     {

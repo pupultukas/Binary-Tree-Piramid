@@ -1,0 +1,11 @@
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\bin\Debug\netcoreapp2.0\BinaryTreePiramide.deps.json
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\bin\Debug\netcoreapp2.0\BinaryTreePiramide.runtimeconfig.json
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\bin\Debug\netcoreapp2.0\BinaryTreePiramide.runtimeconfig.dev.json
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\bin\Debug\netcoreapp2.0\BinaryTreePiramide.dll
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\bin\Debug\netcoreapp2.0\BinaryTreePiramide.pdb
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\obj\Debug\netcoreapp2.0\BinaryTreePiramide.csprojAssemblyReference.cache
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\obj\Debug\netcoreapp2.0\BinaryTreePiramide.csproj.CoreCompileInputs.cache
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\obj\Debug\netcoreapp2.0\BinaryTreePiramide.AssemblyInfoInputs.cache
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\obj\Debug\netcoreapp2.0\BinaryTreePiramide.AssemblyInfo.cs
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\obj\Debug\netcoreapp2.0\BinaryTreePiramide.dll
+c:\users\itpag\source\repos\BinaryTreePiramide\BinaryTreePiramide\obj\Debug\netcoreapp2.0\BinaryTreePiramide.pdb
