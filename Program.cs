@@ -7,7 +7,7 @@ namespace BinaryTreePyramid
     {
         static void Main(string[] args)
         {
-            PrintMaxPath(SampleData.FillTree2());
+            PrintMaxPath(SampleData.FillTree2()); 
             Console.ReadKey();
         }
 
