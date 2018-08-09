@@ -1,1 +1,1 @@
-# Binary Tree Piramid
+# Binary Tree Pyramid
